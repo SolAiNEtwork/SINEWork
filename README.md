@@ -6,6 +6,6 @@
 
 ## About SINE Token
 
-<div style="text-align:center" width="100" height="100"><img src="assets/sine_icon.svg" /></div>
+<img src="assets/sine_icon.svg" alt="SINE" width="200"/>
 
-[Visit us](https://solainetwork.com/)
+SINE is the token to get your work done using Artificial Intelligence and crowd-sourcing. We are creating a platform which will connect your work to a distributed workforce. For more info, visit our [website](https://solainetwork.com/).
